@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&letterSpacing=0.3rem&pause=1000&color=35F4A6&center=true&vCenter=true&multiline=true&width=435&lines=Hi!+I'm+Raeid+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&letterSpacing=0.3rem&pause=1000&color=35F4A6&multiline=true&width=435&lines=Hi!+I'm+Raeid+)](https://git.io/typing-svg)
 
 Aspiring software engineer passionate about **full-stack development, cloud computing, and data visualization**. I enjoy building scalable applications, automating workflows, and solving complex technical problems.  
 
