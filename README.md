@@ -19,7 +19,7 @@ Aspiring software engineer passionate about **full-stack development, cloud comp
 ### [Portfolio Website](https://raeid.ca)  
 **Next.js, React, TailwindCSS, Framer Motion** – A personal portfolio with animations, custom components, and planned features like a terminal-inspired interface.  
 
-### [LofiModoro](https://https://github.com/Raeid-U/LofiModoro)  
+### [LofiModoro](https://github.com/Raeid-U/LofiModoro)  
 **Next.js, React, TailwindCSS, Spotify API** – A Pomodoro timer with music integration from Spotify and YouTube, including session tracking.  
 
 ---
