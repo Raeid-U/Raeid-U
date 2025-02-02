@@ -39,10 +39,3 @@ Aspiring software engineer passionate about **full-stack development, cloud comp
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)  
 
 ---
-
-## 📊 GitHub Stats  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raeid-U&theme=dark&hide_border=false)  
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raeid-U&theme=dark&hide_border=false&layout=compact)  
-
